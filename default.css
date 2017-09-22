@@ -1,0 +1,11 @@
+body{
+	font-family: monospace;
+	font-style: normal;
+	text-align: center;
+
+}
+
+#clock{
+	font-size: 200px;
+	margin: 100px 10px 10px 10px;
+}
